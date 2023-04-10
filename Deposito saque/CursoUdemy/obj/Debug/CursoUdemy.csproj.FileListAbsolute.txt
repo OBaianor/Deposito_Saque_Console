@@ -9,3 +9,6 @@ D:\Arquivos\Cursos C# Udemy\Projetos Udemy\CursoUdemy\CursoUdemy\obj\Debug\Curso
 D:\Arquivos\Cursos C# Udemy\Projetos Udemy\CursoUdemy\CursoUdemy\bin\Debug\CursoUdemy.exe
 D:\Arquivos\Cursos C# Udemy\Projetos Udemy\CursoUdemy\CursoUdemy\bin\Debug\CursoUdemy.pdb
 D:\Arquivos\Cursos C# Udemy\Projetos Udemy\CursoUdemy\CursoUdemy\obj\Debug\CursoUdemy.csprojResolveAssemblyReference.cache
+D:\Arquivos\Cursos C# Udemy\Projetos Udemy\Deposito saque\CursoUdemy\bin\Debug\CursoUdemy.exe.config
+D:\Arquivos\Cursos C# Udemy\Projetos Udemy\Deposito saque\CursoUdemy\obj\Debug\CursoUdemy.exe
+D:\Arquivos\Cursos C# Udemy\Projetos Udemy\Deposito saque\CursoUdemy\obj\Debug\CursoUdemy.pdb
